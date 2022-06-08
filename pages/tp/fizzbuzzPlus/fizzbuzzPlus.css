@@ -1,0 +1,15 @@
+#fizzbuzzPlus {
+    background-image: url(../images/php3.png);
+    background-repeat: no-repeat;
+    background-size: cover;    
+    background-position: center;  
+    height: 1200px; 
+    font-weight: bold;
+    text-align: center;
+    font-size: 3.8em;
+    color: black;
+}
+#nombre {
+    height: 60px;
+    width: 150px;
+}

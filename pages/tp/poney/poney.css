@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/tee.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: center;
+    margin-top: 125px;
+}
+
+div .ul-poney {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    width: 20%;
+    border: 1px black solid;
+    background-color: pink;
+
+}

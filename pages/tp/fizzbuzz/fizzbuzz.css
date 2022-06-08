@@ -1,0 +1,9 @@
+.card {
+    background-image: url(../images/php3.jpeg);
+    background-size: 170px;
+    font-weight: bold;
+    height: 120px;
+    text-align: center;
+    font-size: 2.2em;
+    color: black;
+}
